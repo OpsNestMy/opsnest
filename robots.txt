@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://opsnestmy.github.io/opsnest/sitemap.xml
